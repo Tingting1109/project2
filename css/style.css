@@ -1,10 +1,11 @@
 /*code for all pages*/
 header {
   background-color: lavender;
-  padding: 6% 20% 6% 6%;
+  padding: 6% 10% 6% 6%;
   margin-left: 0px !important;
   margin-bottom: 2em;
   border-bottom: 1px solid indigo;
+  text-align: center;
 }
 
 h1 {

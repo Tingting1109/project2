@@ -56,6 +56,7 @@ ul {
   background-color: lavender;
   border: 1px solid lavender;
   border-color:black;
+  border-width:2px;
 }
 
 #nav ul {

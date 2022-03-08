@@ -49,6 +49,7 @@ h3 {
   display: block;
   background-color: lavender;
   border: 1px solid lavender;
+  border-color:black;
 }
 
 #nav ul {

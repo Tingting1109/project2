@@ -31,34 +31,36 @@ h3 {
   color: black;
  }
 
-#nav li{
+#nav li {
   float: left;
-  width: 25%;
-  margin: .5% .20% .5% .50%;
+  width: 32.75%;
+  margin: .5% .25% .5% .25%;
   text-align: center;
 }
 
 #nav ul li a {
- text-decoration: none;
- color: black;
- padding: 1em;
- background-color: white;
+  text-decoration: none;
+  color: indigo;
+  padding: 1em;
+  display: block;
+  background-color: lavender;
+  border: 1px solid lavender;
 }
 
 #nav ul {
- list-style-type: none;
- padding: 0;
- margin: 0;
- overflow: hidden;
- font-family: 'Assistant', serif;
- font-weight: 900;
- background-color: white;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  font-family: 'Merriweather', serif;
+  font-weight: 900;
+  background-color: white;
 }
 
 #nav ul li a:hover {
- background-color: indigo;
- border: 1px solid indigo;
- color: white;
+  background-color: indigo;
+  border: 1px solid indigo;
+  color: lavender;
 }
 
 /*code for resume page only*/

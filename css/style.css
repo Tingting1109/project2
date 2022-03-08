@@ -8,6 +8,14 @@ header {
   text-align: center;
 }
 
+h1 {
+  font-family:'Merriweather', serif;
+  font-weight: 800;
+  font-size: 3em;
+  color: indigo;
+  text-align: center;
+ }
+  
 #nav li{
   float: left;
   width: 25%;
@@ -60,7 +68,7 @@ button#linkedin-link:hover {
  #contact {
    font-family:'Arial',cursive;
    font-weight: bold;
-   font-size: 2.5em;
+   font-size: 2.0em;
    color: black;
    text-align: center;
  }
@@ -68,7 +76,7 @@ button#linkedin-link:hover {
  #education {
    font-family:'Arial',cursive;
    font-weight: bold;
-   font-size: 2.5em;
+   font-size: 2.0em;
    color: black;
    text-align: center;
  }
@@ -76,7 +84,7 @@ button#linkedin-link:hover {
  #language {
    font-family:'Arial',cursive;
    font-weight: bold;
-   font-size: 2.5em;
+   font-size: 2.0em;
    color: black;
    text-align: center;
  }
@@ -84,7 +92,7 @@ button#linkedin-link:hover {
  #skills {
    font-family:'Arial',cursive;
    font-weight: bold;
-   font-size: 2.5em;
+   font-size: 2.0em;
    color: black;
    text-align: center;
  }
@@ -92,7 +100,7 @@ button#linkedin-link:hover {
  #work {
    font-family:'Arial',cursive;
    font-weight: bold;
-   font-size: 2.5em;
+   font-size: 2.0em;
    color: black;
    text-align: center;
  }

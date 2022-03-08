@@ -1,4 +1,8 @@
 /*code for all pages*/
+body {
+  background-color: #CFFFF1;
+}
+    
 header {
   background-color: lavender;
   padding: 6% 10% 6% 6%;

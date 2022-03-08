@@ -141,7 +141,7 @@ button#linkedin-link:hover {
 }
 
 /*code for place page only*/
-.picture
+.photo
   background-color: white;
   text-align: center;
   border: 5px solid;
@@ -149,6 +149,21 @@ button#linkedin-link:hover {
   border-color: #F6FFCF;
   width: 800px;
   height: 600px;
+  margin-left: 60px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 60px;
+}
+
+.photo1
+  background-color: white;
+  text-align: center;
+  border: 5px solid;
+  border-radius: 20px;
+  border-color: #F6FFCF;
+  width: 600px;
+  height: 850px;
   margin-left: 60px;
   display: block;
   margin-left: auto;

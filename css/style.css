@@ -2,7 +2,7 @@
 header {
   background-color: lavender;
   padding: 6% 10% 6% 6%;
-  margin-left: 0px !important;
+  margin-left: 0px;
   margin-bottom: 2em;
   border-bottom: 1px solid indigo;
   text-align: center;
@@ -42,18 +42,18 @@ header {
 button#linkedin-link {
   color: indigo;
   text-decoration: none;
-  padding: 1em;
+  padding: 2px;
   border-radius: 4em;
   border: 1px solid indigo;
   font-family: 'Merriweather', serif;
   font-weight: 900;
-  background-color: lavender !important;
-  margin: 3% 0% 0% 0%;
+  background-color: lavender;
+  margin: 20px 20px 20px 20px;
 }
 
 button#linkedin-link:hover {
   border: 1px solid indigo;
-  background-color: indigo !important;
+  background-color: indigo;
   color: lavender;
 }
    

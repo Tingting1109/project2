@@ -14,7 +14,7 @@ h1 {
   color: indigo;
 }
 
-nav#mainnav li {
+nav#nav li {
   float: left;
   width: 32.75%;
   margin: .5% .25% .5% .25%;
@@ -32,7 +32,7 @@ h2 {
   padding: 2% 20% 2% 20%; 
 }
   
-  nav#mainnav ul li a {
+  nav#nav ul li a {
   text-decoration: none;
   color: indigo;
   padding: 1em;
@@ -41,7 +41,7 @@ h2 {
   border: 1px solid lavender;
 }
 
-nav#mainnav ul {
+nav#nav ul {
   list-style-type: none;
   padding: 0;
   margin: 0;
@@ -51,7 +51,7 @@ nav#mainnav ul {
   background-color: white;
 }
 
-nav#mainnav ul li a:hover {
+nav#nav ul li a:hover {
   background-color: indigo;
   border: 1px solid indigo;
   color: lavender;
@@ -106,7 +106,7 @@ h1 {
   color: indigo;
 }
 
-nav#mainnav li {
+nav#nav li {
   float: left;
   width: 100%;
   margin: .25%;
@@ -124,7 +124,7 @@ h2 {
   padding: 2% 6% 2% 6%; 
 }
   
-  nav#mainnav ul li a {
+  nav#nav ul li a {
   text-decoration: none;
   color: indigo;
   padding: 1em;

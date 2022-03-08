@@ -154,6 +154,7 @@ button#linkedin-link:hover {
   color: lavender;
 }
 
+ #name
 @media (max-width: 768px) {
   button#linkedin-link {
   margin: 6% 0% 10% 0%;

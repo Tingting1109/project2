@@ -16,6 +16,21 @@ h1 {
   text-align: center;
  }
   
+h2 {
+  font-family:'Merriweather', serif;
+  font-weight: bold;
+  font-size: 2.0em;
+  color: indigo;
+  text-align: center;
+ }
+
+h3 {
+  font-family:'Merriweather', serif;
+  font-weight: 700;
+  font-size: 1.5em;
+  color: black;
+ }
+
 #nav li{
   float: left;
   width: 25%;
@@ -66,42 +81,42 @@ button#linkedin-link:hover {
 }
    
  #contact {
-   font-family:'Arial',cursive;
+   font-family:'Merriweather', serif;
    font-weight: bold;
    font-size: 2.0em;
-   color: black;
+   color: indigo;
    text-align: center;
  }
    
  #education {
-   font-family:'Arial',cursive;
+   font-family:'Merriweather', serif;
    font-weight: bold;
    font-size: 2.0em;
-   color: black;
+   color: indigo;
    text-align: center;
  }
    
  #language {
-   font-family:'Arial',cursive;
+   font-family:'Merriweather', serif;
    font-weight: bold;
    font-size: 2.0em;
-   color: black;
+   color: indigo;
    text-align: center;
  }
    
  #skills {
-   font-family:'Arial',cursive;
+   font-family:'Merriweather', serif;
    font-weight: bold;
    font-size: 2.0em;
-   color: black;
+   color: indigo;
    text-align: center;
  }
    
  #work {
-   font-family:'Arial',cursive;
+   font-family:'Merriweather', serif;
    font-weight: bold;
    font-size: 2.0em;
-   color: black;
+   color: indigo;
    text-align: center;
  }
 

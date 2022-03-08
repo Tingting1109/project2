@@ -155,7 +155,54 @@ button#linkedin-link:hover {
   color: lavender;
 }
 
- #name
+ #name {
+   font-family:'Arial',cursive;
+   font-weight: bold;
+   font-size: 2.5em;
+   color: black;
+   text-align: center;
+ }
+   
+ #contact {
+   font-family:'Arial',cursive;
+   font-weight: bold;
+   font-size: 2.5em;
+   color: black;
+   text-align: center;
+ }
+   
+ #education {
+   font-family:'Arial',cursive;
+   font-weight: bold;
+   font-size: 2.5em;
+   color: black;
+   text-align: center;
+ }
+   
+ #language {
+   font-family:'Arial',cursive;
+   font-weight: bold;
+   font-size: 2.5em;
+   color: black;
+   text-align: center;
+ }
+   
+ #skills {
+   font-family:'Arial',cursive;
+   font-weight: bold;
+   font-size: 2.5em;
+   color: black;
+   text-align: center;
+ }
+   
+ #work {
+   font-family:'Arial',cursive;
+   font-weight: bold;
+   font-size: 2.5em;
+   color: black;
+   text-align: center;
+ }
+
 @media (max-width: 768px) {
   button#linkedin-link {
   margin: 6% 0% 10% 0%;

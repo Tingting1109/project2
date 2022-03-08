@@ -160,7 +160,7 @@ button#linkedin-link:hover {
 } 
 }
 
-/*code for cat-information page only*/
+/*code for hometown page only*/
 #cat-photos {
   background-color: lavender; 
   padding: 5% 0% 10% 0%;
@@ -214,7 +214,7 @@ button#linkedin-link:hover {
 }
 }
 
-/*code for learning-goals page only*/
+/*code for place page only*/
 #glacier-pic {
   width: 100%;
   border-top: 50px solid darkcyan;

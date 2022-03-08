@@ -141,7 +141,7 @@ button#linkedin-link:hover {
 }
 
 /*code for place page only*/
-.photo
+.photo {
   background-color: white;
   text-align: center;
   border: 5px solid;
@@ -155,7 +155,7 @@ button#linkedin-link:hover {
   margin-bottom: 60px;
 }
 
-.photo1
+.photo1 {
   background-color: white;
   text-align: center;
   border: 5px solid;
@@ -169,7 +169,7 @@ button#linkedin-link:hover {
   margin-bottom: 60px;
 }
 
-.video
+.video {
   background-color: white;
   text-align: center;
   border: 10px solid;
@@ -182,7 +182,7 @@ button#linkedin-link:hover {
 }
 
 /*code for hometown page only*/
-.picture
+.picture {
   background-color: white;
   text-align: center;
   border: 5px solid;

@@ -35,6 +35,12 @@ h3 {
   color: black;
  }
 
+ul {
+  font-weight: 500;
+  font-size: 0.7em;
+  color: black;
+ }
+
 #nav li {
   float: left;
   width: 32.75%;

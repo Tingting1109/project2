@@ -8,7 +8,7 @@ header {
   padding: 6% 10% 6% 6%;
   margin-left: 0px;
   margin-bottom: 2em;
-  border-bottom: 1px solid indigo;
+  border-bottom: 1px solid #0000FF;
   text-align: center;
 }
 
@@ -16,7 +16,7 @@ h1 {
   font-family:'Merriweather', serif;
   font-weight: 800;
   font-size: 3.5em;
-  color: indigo;
+  color: #0000FF;
   text-align: center;
  }
   
@@ -24,7 +24,7 @@ h2 {
   font-family:'Merriweather', serif;
   font-weight: bold;
   font-size: 2.0em;
-  color: indigo;
+  color: #0000FF;
   text-align: center;
   border: 1px solid;
   border-radius: 1px;

@@ -38,13 +38,13 @@ h3 {
   font-family:'Merriweather', serif;
   font-weight: 700;
   font-size: 1.5em;
-  color: black;
+  color: 110000;
  }
 
 ul {
   font-weight: 500;
   font-size: 1.2em;
-  color: black;
+  color: 110000;
  }
 
 #nav li {
@@ -56,12 +56,12 @@ ul {
 
 #nav ul li a {
   text-decoration: none;
-  color: indigo;
+  color: #0000FF;
   padding: 1em;
   display: block;
-  background-color: lavender;
-  border: 1px solid lavender;
-  border-color:black;
+  background-color: #CCCCFF;
+  border: 1px solid #CCCCFF;
+  border-color:110000;
   border-width:2px;
 }
 
@@ -72,39 +72,39 @@ ul {
   overflow: hidden;
   font-family: 'Merriweather', serif;
   font-weight: 900;
-  background-color: white;
+  background-color: #CCFF99;
 }
 
 #nav ul li a:hover {
-  background-color: indigo;
-  border: 1px solid indigo;
-  color: lavender;
+  background-color: #0000FF;
+  border: 1px solid #0000FF;
+  color: #CCCCFF;
 }
 
 /*code for resume page only*/
 button#linkedin-link {
-  color: indigo;
+  color: #0000FF;
   text-decoration: none;
   padding: 2px;
   border-radius: 4em;
-  border: 1px solid indigo;
+  border: 1px solid #0000FF;
   font-family: 'Merriweather', serif;
   font-weight: 900;
-  background-color: lavender;
+  background-color: #CCCCFF;
   margin: 20px 20px 20px 20px;
 }
 
 button#linkedin-link:hover {
-  border: 1px solid indigo;
-  background-color: indigo;
-  color: lavender;
+  border: 1px solid #0000FF;
+  background-color: #0000FF;
+  color: #CCCCFF;
 }
    
  #contact {
    font-family:'Merriweather', serif;
    font-weight: bold;
    font-size: 2.0em;
-   color: indigo;
+   color: #0000FF;
    text-align: center;
  }
    
@@ -112,7 +112,7 @@ button#linkedin-link:hover {
    font-family:'Merriweather', serif;
    font-weight: bold;
    font-size: 2.0em;
-   color: indigo;
+   color: #0000FF;
    text-align: center;
  }
    
@@ -120,7 +120,7 @@ button#linkedin-link:hover {
    font-family:'Merriweather', serif;
    font-weight: bold;
    font-size: 2.0em;
-   color: indigo;
+   color: #0000FF;
    text-align: center;
  }
    
@@ -128,7 +128,7 @@ button#linkedin-link:hover {
    font-family:'Merriweather', serif;
    font-weight: bold;
    font-size: 2.0em;
-   color: indigo;
+   color: #0000FF;
    text-align: center;
  }
    
@@ -136,7 +136,7 @@ button#linkedin-link:hover {
    font-family:'Merriweather', serif;
    font-weight: bold;
    font-size: 2.0em;
-   color: indigo;
+   color: #0000FF;
    text-align: center;
  }
 
@@ -148,7 +148,7 @@ button#linkedin-link:hover {
 
 /*code for place page only*/
 .photo {
-  background-color: white;
+  background-color: #CCFF99;
   text-align: center;
   border: 5px solid;
   border-radius: 20px;
@@ -162,7 +162,7 @@ button#linkedin-link:hover {
 }
 
 .photo1 {
-  background-color: white;
+  background-color: #CCFF99;
   text-align: center;
   border: 5px solid;
   border-radius: 20px;
@@ -176,7 +176,7 @@ button#linkedin-link:hover {
 }
 
 .video {
-  background-color: white;
+  background-color: #CCFF99;
   text-align: center;
   border: 10px solid;
   border-radius: 20px;
@@ -189,7 +189,7 @@ button#linkedin-link:hover {
 
 /*code for hometown page only*/
 .picture {
-  background-color: white;
+  background-color: #CCFF99;
   text-align: center;
   border: 5px solid;
   border-radius: 20px;

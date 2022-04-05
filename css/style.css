@@ -8,7 +8,7 @@ header {
   padding: 6% 10% 6% 6%;
   margin-left: 0px;
   margin-bottom: 2em;
-  border-bottom: 1px solid 000011;
+  border-bottom: 1px solid #000011;
   text-align: center;
 }
 
@@ -16,7 +16,7 @@ h1 {
   font-family:'Merriweather', serif;
   font-weight: 800;
   font-size: 3.5em;
-  color: 000011;
+  color: #000011;
   text-align: center;
  }
   
@@ -39,13 +39,13 @@ h3 {
   font-family:'Merriweather', serif;
   font-weight: 700;
   font-size: 1.5em;
-  color: 110000;
+  color: #110000;
  }
 
 ul {
   font-weight: 500;
   font-size: 1.2em;
-  color: 110000;
+  color: #110000;
  }
 
 #nav li {
@@ -62,7 +62,7 @@ ul {
   display: block;
   background-color: #CCCCFF;
   border: 1px solid #CCCCFF;
-  border-color:110000;
+  border-color:#110000;
   border-width:2px;
 }
 

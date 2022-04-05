@@ -26,6 +26,10 @@ h2 {
   font-size: 2.0em;
   color: indigo;
   text-align: center;
+  border-radius: 10px;
+  padding: 5px;
+  wedth: fit-content;
+  border: 3px solid #fff;
  }
 
 h3 {

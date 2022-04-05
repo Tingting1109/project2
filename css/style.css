@@ -26,9 +26,9 @@ h2 {
   font-size: 2.0em;
   color: indigo;
   text-align: center;
-  border-radius: 10px;
+  border-radius: 1px;
   border-style: double;
-  border-width: 2em;
+  border-width: 2px;
   border-color: #000000;
  }
 

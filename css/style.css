@@ -26,10 +26,12 @@ h2 {
   font-size: 2.0em;
   color: indigo;
   text-align: center;
+  border: 1px solid;
   border-radius: 1px;
   border-style: double;
   border-width: 2px;
   border-color: #000000;
+  background-color: #FF8888;
  }
 
 h3 {
